@@ -1,0 +1,2 @@
+# winkit.sqlite
+SoloDev!
